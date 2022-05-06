@@ -20,11 +20,17 @@ This project repository is created in partial fulfillment of the requirements fo
  
 Set Up Instructions
 Set up an Amazon S3 bucket. 
+
 For instructions:  https://docs.aws.amazon.com/AmazonS3/latest/user-guide/create-bucket.html
+
 Open Redshift to create a database using data on S3. 
+
 For instructions: https://docs.aws.amazon.com/redshift/latest/gsg/bring-own-data.html
+
 Create an Amazon SageMaker Notebook Instance and launch it. 
+
 For instructions: https://docs.aws.amazon.com/sagemaker/latest/dg/gs-console.html.
+
 Reference https://github.com/krishnaik06/AWS-SageMaker/blob/master/Untitled2.ipynb
 
 ### Video Link to our presentation
